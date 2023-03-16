@@ -1,0 +1,368 @@
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.StaticWebAssets.xml
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.exe
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.deps.json
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.runtimeconfig.json
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.runtimeconfig.dev.json
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.pdb
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.Views.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\HRIS.Views.pdb
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.csproj.AssemblyReference.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.AssemblyInfoInputs.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.AssemblyInfo.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.csproj.CoreCompileInputs.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.MvcApplicationPartsAssemblyInfo.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.MvcApplicationPartsAssemblyInfo.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.RazorAssemblyInfo.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.RazorAssemblyInfo.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\HRIS.StaticWebAssets.Manifest.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\HRIS.StaticWebAssets.Pack.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HRIS.props
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HRIS.props
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\staticwebassets\HRIS.StaticWebAssets.xml
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.TagHelpers.input.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.TagHelpers.output.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.RazorCoreGenerate.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.RazorTargetAssemblyInfo.cache
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.RazorTargetAssemblyInfo.cs
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.Views.pdb
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.csproj.CopyComplete
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.dll
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.pdb
+G:\Group Project GitHub\ASP .NET CORE\ECommerce\obj\Debug\netcoreapp3.1\HRIS.genruntimeconfig.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.StaticWebAssets.xml
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.exe
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.deps.json
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.runtimeconfig.json
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.runtimeconfig.dev.json
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.pdb
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.Views.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\HRIS.Views.pdb
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.csproj.AssemblyReference.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.AssemblyInfoInputs.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.AssemblyInfo.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.csproj.CoreCompileInputs.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.MvcApplicationPartsAssemblyInfo.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.MvcApplicationPartsAssemblyInfo.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.RazorAssemblyInfo.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.RazorAssemblyInfo.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\staticwebassets\HRIS.StaticWebAssets.Manifest.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\staticwebassets\HRIS.StaticWebAssets.Pack.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.HRIS.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.HRIS.props
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.HRIS.props
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.HRIS.props
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\staticwebassets\HRIS.StaticWebAssets.xml
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.TagHelpers.input.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.TagHelpers.output.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.RazorCoreGenerate.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\CreateRole.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditRole.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUser.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\EditUserInRole.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListRoles.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ListUsers.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.RazorTargetAssemblyInfo.cache
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.RazorTargetAssemblyInfo.cs
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.Views.pdb
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.csproj.CopyComplete
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.dll
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.pdb
+G:\Group Project GitHub\New folder\HumanResourcesInformationSystem\HRIS\obj\Debug\netcoreapp3.1\HRIS.genruntimeconfig.cache

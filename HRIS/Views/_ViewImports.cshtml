@@ -1,0 +1,9 @@
+﻿@using HRIS
+@using HRIS.Models
+@using HRIS.ViewModels
+@using Microsoft.AspNetCore.Authorization;
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<ApplicationUser> signInManager
+@inject IAuthorizationService authorizationService
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
